@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build (gcc, sin cmake)",
+      "type": "shell",
+      "command": "gcc broker_tcp.c tcp_utils.c -o broker_tcp.exe -lws2_32 && gcc publisher_tcp.c tcp_utils.c -o publisher_tcp.exe -lws2_32 && gcc subscriber_tcp.c tcp_utils.c -o subscriber_tcp.exe -lws2_32",
+      "options": { "cwd": "${workspaceFolder}/tcp" },
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
