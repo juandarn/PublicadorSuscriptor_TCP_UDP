@@ -40,7 +40,7 @@ PublicadorSuscriptor_TCP_UDP/
 
 ---
 
-## 🧱 Compilación (versión final recomendada)
+## 🧱 Compilación (Windows + gcc)
 
 Desde la carpeta `tcp`, ejecuta en la terminal (PowerShell o MSYS2):
 
