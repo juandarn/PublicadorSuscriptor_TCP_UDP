@@ -201,9 +201,5 @@ gcc subscriber_udp.c udp_utils.c -o output/subscriber_udp.exe -lws2_32
 ---
 
 ## ✨ Créditos
-
-Desarrollado por **Juan David Ríos**
 Curso: *Infraestructura de Comunicaciones*
 **Departamento de Ingeniería de Sistemas y Computación** – Universidad de los Andes 🇨🇴
-Profesor Asistente: **Nathalia Quiroga**
-

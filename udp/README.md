@@ -139,5 +139,4 @@ El broker recibe cada mensaje `PUB` y lo reenvía como
 
 Desarrollado en C para el curso **Infraestructura de Comunicaciones** –
 **Departamento de Ingeniería de Sistemas y Computación, Universidad de los Andes**
-Profesor Asistente: *Nathalia Quiroga*
 

@@ -135,5 +135,3 @@ En el informe compara los resultados entre **TCP** y (posteriormente) **UDP**:
 
 Desarrollado en C para el curso **Infraestructura de Comunicaciones** –
 **Departamento de Ingeniería de Sistemas y Computación, Universidad de los Andes**
-Profesor Asistente: *Nathalia Quiroga*
-
